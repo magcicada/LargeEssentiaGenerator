@@ -52,5 +52,5 @@ largeessentiagenerator.chat=Installed!
 largeessentiagenerator.machine.essentia_generator.name=Large Essentia Generator
 
 #Material
-minecraft.material.thaumium.name=Thaumium
-minecraft.material.void.name=Void
+minecraft.material.thaumium=Thaumium
+minecraft.material.void=Void

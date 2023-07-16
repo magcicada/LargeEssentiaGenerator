@@ -52,5 +52,5 @@ largeessentiagenerator.chat=安装成功!
 largeessentiagenerator.machine.essentia_generator.name=大型源质反应堆
 
 #Material
-minecraft.material.thaumium.name=神秘
-minecraft.material.void.name=虚空
+minecraft.material.thaumium=神秘
+minecraft.material.void=虚空
